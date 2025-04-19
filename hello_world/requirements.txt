@@ -1,1 +1,8 @@
 requests
+SAM CLI
+AWS CLI
+GIT
+Python
+Docker
+pyCharm
+WSL
